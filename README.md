@@ -1,7 +1,7 @@
 # AppletViewer
 Helps windows users to see java applets in html files.
 
-# # Instructions :
+## Instructions :
 
 1) YOU NEED JAVA INSTALLED ON YOUR COMPUTER.
 2) Place the batch or the .exe file in the same place where the html is.
